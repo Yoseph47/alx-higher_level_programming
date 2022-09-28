@@ -1,2 +1,2 @@
 # alx-higher_level_programming
-starting coding with python 
+starting to code with python 
