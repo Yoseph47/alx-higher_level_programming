@@ -36,7 +36,7 @@ class Square :
     def size(self, value):
         """setter of __size
         Args:
-            value (int): the size of a size of the square
+            value (int): the size of a square
         Returns:
             None
         """
